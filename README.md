@@ -18,6 +18,9 @@ Below are some primary sources of open data on Morocco:
 - [Open Data for Africa - Morocco Data Portal](https://morocco.opendataforafrica.org/)
 - [Kingdom of Morocco - Ministry of National Education Preschool and Sports](https://www.men.gov.ma/en/OData/Pages/default.aspx)
 - [Kaggle Morocco Datasets](https://www.kaggle.com/search?q=Morocco+in%3Adatasets)
+- [Open Data La libération des données publiques  au service de la croissance  et de la connaissance](https://www.cese.ma/media/2020/10/Rapport-du-CESE-Open-data.pdf)
+- [darija <-> english dataset](https://github.com/darija-open-dataset/dataset)
+- [Open Data et micro données - HCP](https://www.hcp.ma/Micro-donnees-Open-data_r632.html)
 
 ## Future Goals
 In the long term, this project aims to go beyond aggregating data links. We plan to:
