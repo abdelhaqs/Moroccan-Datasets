@@ -21,6 +21,7 @@ Below are some primary sources of open data on Morocco:
 - [Open Data La libération des données publiques  au service de la croissance  et de la connaissance](https://www.cese.ma/media/2020/10/Rapport-du-CESE-Open-data.pdf)
 - [darija <-> english dataset](https://github.com/darija-open-dataset/dataset)
 - [Open Data et micro données - HCP](https://www.hcp.ma/Micro-donnees-Open-data_r632.html)
+- [Ministry of Economy and Finance](https://manar.finances.gov.ma/)
 
 ## Future Goals
 In the long term, this project aims to go beyond aggregating data links. We plan to:
