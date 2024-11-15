@@ -22,6 +22,7 @@ Below are some primary sources of open data on Morocco:
 - [darija <-> english dataset](https://github.com/darija-open-dataset/dataset)
 - [Open Data et micro données - HCP](https://www.hcp.ma/Micro-donnees-Open-data_r632.html)
 - [Ministry of Economy and Finance](https://manar.finances.gov.ma/)
+- [A dataset contains +1 Million Moroccan news articles](https://github.com/J-Mourad/MNAD)
 
 ## Future Goals
 In the long term, this project aims to go beyond aggregating data links. We plan to:
