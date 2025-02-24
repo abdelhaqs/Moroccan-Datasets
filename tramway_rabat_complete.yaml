@@ -1,0 +1,131 @@
+tramway_rabat:
+  line_1:
+    direction_hay_karima:
+      stations:
+      - monday_to_friday:
+          first: 06:30
+          last: '22:41'
+        saturday:
+          first: 06:30
+          last: '22:41'
+        station: Madinat Al Irfane
+        sunday_holiday:
+          first: 06:30
+          last: '22:41'
+      - monday_to_friday:
+          first: 06:31
+          last: '22:42'
+        saturday:
+          first: 06:31
+          last: '22:42'
+        station: Cité Universitaire Souissi
+        sunday_holiday:
+          first: 06:31
+          last: '22:42'
+      - monday_to_friday:
+          first: 06:32
+          last: '22:43'
+        saturday:
+          first: 06:32
+          last: '22:43'
+        station: Ibn Rochd
+        sunday_holiday:
+          first: 06:32
+          last: '22:43'
+    direction_madinat_al_irfane:
+      stations:
+      - monday_to_friday:
+          first: 05:45
+          last: '22:00'
+        saturday:
+          first: 05:45
+          last: '22:00'
+        station: Hay Karima
+        sunday_holiday:
+          first: 05:45
+          last: '21:55'
+      - monday_to_friday:
+          first: 05:47
+          last: '22:02'
+        saturday:
+          first: 05:47
+          last: '22:02'
+        station: Tabriquet
+        sunday_holiday:
+          first: 05:47
+          last: '21:57'
+      - monday_to_friday:
+          first: 05:49
+          last: '22:04'
+        saturday:
+          first: 05:49
+          last: '22:04'
+        station: La Poste
+        sunday_holiday:
+          first: 05:49
+          last: '21:59'
+  line_2:
+    direction_hopital_moulay_abdellah:
+      stations:
+      - monday_to_friday:
+          first: 06:15
+          last: '22:45'
+        saturday:
+          first: 06:15
+          last: '22:45'
+        station: Yacoub Al Mansour
+        sunday_holiday:
+          first: 06:15
+          last: '22:45'
+      - monday_to_friday:
+          first: 06:17
+          last: '22:47'
+        saturday:
+          first: 06:17
+          last: '22:47'
+        station: Avenue Al Massira
+        sunday_holiday:
+          first: 06:17
+          last: '22:47'
+      - monday_to_friday:
+          first: 06:20
+          last: '22:50'
+        saturday:
+          first: 06:20
+          last: '22:50'
+        station: Avenue Annakhil
+        sunday_holiday:
+          first: 06:20
+          last: '22:50'
+    direction_yacoub_al_mansour:
+      stations:
+      - monday_to_friday:
+          first: 06:00
+          last: '22:30'
+        saturday:
+          first: 06:00
+          last: '22:30'
+        station: Hôpital Moulay Abdellah
+        sunday_holiday:
+          first: 06:00
+          last: '22:30'
+      - monday_to_friday:
+          first: 06:03
+          last: '22:33'
+        saturday:
+          first: 06:03
+          last: '22:33'
+        station: Avenue Hassan II
+        sunday_holiday:
+          first: 06:03
+          last: '22:33'
+      - monday_to_friday:
+          first: 06:05
+          last: '22:35'
+        saturday:
+          first: 06:05
+          last: '22:35'
+        station: Avenue Annakhil
+        sunday_holiday:
+          first: 06:05
+          last: '22:35'
